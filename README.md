@@ -27,7 +27,7 @@ Industrial engineering knowledge is scattered across expensive textbooks, paid c
 - [Related Awesome Lists](#related-awesome-lists)
 - [Turkish Resources](#turkish-resources)
 
-Recently added: erp-report-engine (read-only weekly reports from the SQL database behind an ERP) · opsaudit (agent-first ops CLI) · industrial-engineering-ai-skills (method pack) — see their sections below.
+Added in July 2026: erp-report-engine (read-only weekly reports from the SQL database behind an ERP) · forecast-autoresearch (an agent held to a sealed holdout and a naive benchmark) · opsaudit (agent-first ops CLI) — see their sections below.
 
 ## Learning Resources
 
@@ -58,8 +58,8 @@ Not free — listed because they define the field. Check your local library.
 - [Lean Thinking](https://en.wikipedia.org/wiki/Lean_thinking) - James Womack and Daniel Jones.
 - [The Machine That Changed the World](https://en.wikipedia.org/wiki/The_Machine_That_Changed_the_World_(book)) - Womack, Jones and Roos.
 - [Out of the Crisis](https://en.wikipedia.org/wiki/W._Edwards_Deming) - W. Edwards Deming.
-- [Introduction to Operations Research](https://en.wikipedia.org/wiki/Frederick_S._Hillier) - Hillier and Lieberman.
-- [Supply Chain Management: Strategy, Planning, and Operation](https://en.wikipedia.org/wiki/Sunil_Chopra_(academic)) - Chopra and Meindl.
+- [Introduction to Operations Research](https://openlibrary.org/works/OL3528088W) - Hillier and Lieberman.
+- [Supply Chain Management: Strategy, Planning, and Operation](https://openlibrary.org/works/OL11630665W) - Chopra and Meindl.
 - [Designing and Managing the Supply Chain](https://en.wikipedia.org/wiki/David_Simchi-Levi) - David Simchi-Levi et al.
 
 ## Optimization and Operations Research
@@ -73,7 +73,7 @@ Not free — listed because they define the field. Check your local library.
 - [Timefold Solver](https://github.com/TimefoldAI/timefold-solver) - AI constraint solver for scheduling, rostering and routing; successor of OptaPlanner.
 - [PyVRP](https://github.com/PyVRP/PyVRP) - State-of-the-art open vehicle routing solver.
 - [NetworkX](https://github.com/networkx/networkx) - Graph and network analysis in Python.
-- [COIN-OR](https://www.coin-or.org/) - Umbrella organization for open operations research software.
+- [COIN-OR](https://coin-or.github.io/) - Umbrella organization for open operations research software.
 
 ## Simulation
 
