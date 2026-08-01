@@ -73,7 +73,7 @@ Not free — listed because they define the field. Check your local library.
 - [Timefold Solver](https://github.com/TimefoldAI/timefold-solver) - AI constraint solver for scheduling, rostering and routing; successor of OptaPlanner.
 - [PyVRP](https://github.com/PyVRP/PyVRP) - State-of-the-art open vehicle routing solver.
 - [NetworkX](https://github.com/networkx/networkx) - Graph and network analysis in Python.
-- [COIN-OR](https://coin-or.github.io/) - Umbrella organization for open operations research software.
+- [COIN-OR](https://github.com/coin-or) - Umbrella organization for open operations research software; the projects live here and are documented at [coin-or.github.io](https://coin-or.github.io/).
 
 ## Simulation
 
